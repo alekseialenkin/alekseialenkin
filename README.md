@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  :technologist: About Me :
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Java Developer from Russia.
 
 - :classical_building: I’m currently learning on backend developer and building web applications on Java and SpringBoot.
 
